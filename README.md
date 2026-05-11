@@ -3,7 +3,7 @@
 GPU-accelerated CLI miner untuk **EQM token** di Solana Mainnet menggunakan **NVIDIA CUDA**.
 
 - **Mint**: `1MhvZzEe8gQ8Rb9CrT3Dn26Gkn9QRErzLMGkkTwveqm`
-- **Chain**: Solana Mainnet-Beta
+- **Chain**: Solana Mainnet
 - **Hash**: SHA-256 (GPU-accelerated via CUDA)
 - **Fallback**: CPU multi-thread (worker_threads)
 
@@ -45,8 +45,8 @@ eqm-mine/
 ## Install Cepat
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/eqm-mine
-cd eqm-mine
+git clone https://github.com/hadijayyy/eqm-miner
+cd eqm-miner
 npm install
 cp .env.example .env
 nano .env
