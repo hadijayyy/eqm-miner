@@ -121,6 +121,7 @@ npm run build:cuda
 CUDA_ARCH=sm_86 npm run build:cuda   # RTX 30xx
 CUDA_ARCH=sm_89 npm run build:cuda   # RTX 40xx
 CUDA_ARCH=sm_61 npm run build:cuda   # GTX 10xx
+CUDA_ARCH=sm_100 npm run build:cuda   # RTX 50xx
 ```
 
 **Windows:**
